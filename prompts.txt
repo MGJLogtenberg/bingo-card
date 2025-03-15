@@ -1,14 +1,13 @@
-Societal values was mentioned
+Societal values were mentioned
 A discussion about data privacy happened
 A talk made me rethink my perspective on a topic
-A talk used an AI voice
 A presenter struggled with tech issues
 A session had an unexpectedly heated debate
 A session went way over time
 A speaker talked about AI in education
 AI Act was mentioned
 AI bias was mentioned
-AI was human-like
+AI was talked about as human-like
 AI was criticized
 AI was praised
 AI was called a mythical creature
@@ -20,7 +19,6 @@ An artwork sparked a debate
 Art does not speak to me whatsoever
 Elon Musk is mentioned
 GDPR was mentioned
-I attended a social event outside the conference program
 I bonded with someone over a shared frustration
 I changed my mind about an artwork after discussing it
 I changed my stance on AI after hearing a strong argument
@@ -32,12 +30,9 @@ I disagreed with someone’s view of an artwork
 I discussed the artwork with others
 I shared contact info with someone
 I felt emotional because of an artwork
-I felt like an artwork was looking at me
 I felt overwhelmed by all the information
-I found a hidden artwork
 I found a chance to work together
 I found a quiet space to take a break
-I found an artwork unsettling but couldn’t stop looking at it
 I found someone with a totally different view
 I found someone with similar research interests
 I got caught in a long lunch line
@@ -71,7 +66,7 @@ I networked with someone outside my field
 I pretended to know something and looked it up afterward
 I gave helpful feedback
 I questioned my own biases because of an artwork
-I ran out of battery during a session
+Someone ran out of battery during a session
 I realized an artwork referenced something I missed at first
 I recommended a session to someone
 I recommended an artwork to someone
@@ -83,7 +78,6 @@ I saw someone working during a session
 I spent more than 5 minutes looking at a single artwork
 I stayed longer than I planned because I was enjoying myself
 I struggled to make sense of an artwork
-I talked to an artist about their work
 I thought about how the artwork was made
 I took a picture of an artwork
 I tried to balance coffee and my notes at the same time
@@ -91,12 +85,12 @@ I was in the wrong place at the wrong time
 I was inspired by the artwork
 I was pleasantly surprised by the venue
 I wish I could take an artwork home
-I witnessed an awkward panel moment
+I witnessed an awkward moment
 I wondered about the meaning of an artwork
 Nobody can agree on the meaning of public values
 Presenter made the audience laugh
 Sandwiches were served for lunch
-Saw somebody I really want to connect with but felt too awkward so I didn’t—now getting distracted during a session cause I can’t stop thinking about it
+Saw somebody I really wanted to connect with but felt too awkward to do it
 Someone argued AI is political
 Someone argued for more AI rules
 Someone asked a question that was way too long
@@ -118,7 +112,7 @@ The artwork made me feel uncomfortable
 The artwork reminded me of another artist’s work
 The climate impact of AI was mentioned
 The coffee was surprisingly good
-The coffee was terrible
+The coffee was not the best…
 The ethics of AI were discussed
 The food was not what I expected
 The presenter was clearly an AI critic
@@ -129,3 +123,10 @@ The slides were impossible to read
 The speaker mentioned ChatGPT
 The term “black box” was used
 The venue was confusing to navigate
+I wrote down my hopes in the SNaiL space
+I wrote down my worries in the SNaiL space
+I wrote down my concerns in the SNaiL space
+I was able to relax in the SNaiL space
+I was able to reflect in the SNaiL space
+I did some knitting in the SNaiL space
+I explored the SNaiL space
